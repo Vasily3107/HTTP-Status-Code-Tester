@@ -1,1 +1,1 @@
-# HTTP-Status-Code-Tester
+# Entry point: client.py
